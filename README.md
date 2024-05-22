@@ -1,8 +1,7 @@
-# React + Vite
+# RentHouse 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+  RentHouse Services is a comprehensive platform designed to streamline
+  the rental process for both landlords and tenants.
+  This site offers a variety of features and tools aimed at simplifying the management,
+  search, and rental of properties.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
